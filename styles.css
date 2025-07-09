@@ -2,7 +2,7 @@ body, html {
   margin: 0;
   padding: 0;
   font-family: 'Kanit', sans-serif;
-  background: aqua;
+  background: skyblue;
   color: #222;
   overflow: hidden;
 }
@@ -36,18 +36,18 @@ body, html {
 }
 
 .intro-content button {
-  padding: 10px 20px;
-  font-size: 1.1rem;
-  background: white;
-  color: black;
+  padding: 6px 14px;
+  font-size: 0.9rem;
+  background: black;
+  color: white;
   border: none;
-  border-radius: 6px;
+  border-radius: 4px;
   cursor: pointer;
   margin-top: 1rem;
   transition: background 0.3s ease;
 }
 .intro-content button:hover {
-  background: #c60000;
+  background: gray;
 }
 
 .hidden {
