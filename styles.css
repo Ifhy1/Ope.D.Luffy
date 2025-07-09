@@ -37,11 +37,11 @@ body, html {
 
 .intro-content button {
   padding: 6px 14px;
-  font-size: 0.9rem;
+  font-size: 1rem;
   background: black;
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 25px;
   cursor: pointer;
   margin-top: 1rem;
   transition: background 0.3s ease;
