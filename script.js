@@ -7,7 +7,7 @@ function startSlideshow() {
   intro.classList.add('hidden');
   slideshow.classList.remove('hidden');
   slides[0].classList.add('active');
-  setInterval(showNextSlide, 4000); // change every 4 seconds
+  setInterval(showNextSlide, 4000); 
 }
 
 function showNextSlide() {
